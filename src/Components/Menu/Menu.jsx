@@ -1,4 +1,5 @@
-import './Menu.css'
+ import React from 'react';
+ import './Menu.css'
 import {NestedList} from "../NestedList/NestedList";
 
 const menuItems = [
